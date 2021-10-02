@@ -9,5 +9,5 @@ def travel(money):
             print(key)
 
 
-money = 100
+money = 1
 travel(money)
